@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Olá, eu sou Juliana de Assis!
 
-<!--
-**sassenach33/sassenach33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na Estácio, apaixonado por tecnologia e inovação. Meu objetivo é me tornar um desenvolvedor full-stack e contribuir para soluções que impactem positivamente a vida das pessoas.
 
-Here are some ideas to get you started:
+🛠️ **Tecnologias que estou aprendendo:**
+- **Linguagens:** Java, Python, c .
+- **Banco de Dados:** MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Aprendizados recentes:**
+Atualmente, estou me aprofundando em front-end, buscando sempre melhorar minhas habilidades e adquirir novos conhecimentos.
+
+💬 **Estou aberto a:**
+
+- Trocas de conhecimento e experiências
+
+📫 **Vamos nos conectar!** Entre em contato comigo por e-mail: julianapereiraassis133@gmail.com ou me siga nas redes sociais: www.linkedin.com/in/
+juliana-de-assis-pereira-995b30305.
+
+🌍 **Curiosidades sobre mim:**
+Fora do mundo da programação, gosto de fazer exercicios. Acredito que um bom equilíbrio entre trabalho e lazer é essencial para a criatividade e produtividade.
+
+🔗 **Confira meus projetos** no meu perfil e fique à vontade para me mandar uma mensagem!
