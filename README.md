@@ -3,7 +3,7 @@
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na Estácio, apaixonado por tecnologia e inovação. Meu objetivo é me tornar um desenvolvedor full-stack e contribuir para soluções que impactem positivamente a vida das pessoas.
 
 🛠️ **Tecnologias que estou aprendendo:**
-- **Linguagens:** Java, Python, c .
+- **Linguagens:** Python, Django, c .
 - **Banco de Dados:** MySQL.
 
 📚 **Aprendizados recentes:**
